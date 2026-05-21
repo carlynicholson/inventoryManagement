@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "Figma MCP": {
+      "url": "https://mcp.figma.com/mcp",
+      "type": "http",
+      "headers": {
+        "Authorization": "Bearer figd_jw9aM-CpfodzLQjIR9xuZzxvwW6Mn2Kcf3jkmdkc"
+      }
+    }
+  }
+}
